@@ -4,7 +4,7 @@ The objective of this project is to analyze Amazon Prime Video content dataset a
 This analysis helps in understanding content distribution across genres, ratings, countries, release years, and type of content (Movies vs TV Shows). The insights can be used to study content trends and audience preferences on the platform.
 
 ##Dataset Used
-
+https://github.com/IrshitaSapru25/Amazon-Prime-Video-Content-Analysis-/blob/main/amazon_prime_titles.csv
 
 ## Questions (KPIs) Addressed
 Total number of titles available on Amazon Prime.
